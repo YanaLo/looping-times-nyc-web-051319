@@ -1,7 +1,7 @@
-def using_times(string)
+def using_times
 	#your code here
 	7.times do
-	  #{string}
+	  using_times
 end
 
 
