@@ -1,4 +1,4 @@
-def using_times(string)
+def using_times
 	#your code here
 	7.times {puts "Wingardium Leviosa"}
 	  
